@@ -1,0 +1,7 @@
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\bin\Release\system.exe
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\bin\Release\system.pdb
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.AssemblyReference.cache
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.ResolveComReference.cache
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.CoreCompileInputs.cache
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\obj\Release\system.exe
+C:\Users\seven\Desktop\Новая папка (2)\Новая папка\Phemedrone-Stealer\obj\Release\system.pdb

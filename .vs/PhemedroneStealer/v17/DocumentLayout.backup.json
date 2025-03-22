@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\classes\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\classes\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|c:\\users\\seven\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\services\\browsers\\chromium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\services\\browsers\\chromium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\protections\\mutexcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\protections\\mutexcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\protections\\checkall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\protections\\checkall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\protections\\antivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\protections\\antivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\protections\\antidebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\protections\\antidebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\runtimeresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\runtimeresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\randomuseragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\randomuseragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\nullablevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\nullablevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\lockhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\lockhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\jsondeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\jsondeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\importhider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\importhider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\chromedevtoolswrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\chromedevtoolswrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\extensions\\browserhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\extensions\\browserhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\tripledes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\tripledes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\dpapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\dpapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\asn1der.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\asn1der.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\aesgcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\aesgcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\hashing\\pbkdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\hashing\\pbkdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\cryptography\\hashing\\pbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\cryptography\\hashing\\pbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\classes\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\classes\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\classes\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\classes\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\classes\\berkeleydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\classes\\berkeleydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\classes\\bcrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\classes\\bcrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\classes\\asn1derobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\classes\\asn1derobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\phemedrone-stealer\\services\\messengers\\discord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F484650-2787-4FAC-A477-EC30FFAFCD5D}|Phemedrone-Stealer\\Phemedrone-Stealer.csproj|solutionrelative:phemedrone-stealer\\services\\messengers\\discord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chromium.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Services\\Browsers\\Chromium.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Services\\Browsers\\Chromium.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Services\\Browsers\\Chromium.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Services\\Browsers\\Chromium.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwLIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:59.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MutexCheck.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\MutexCheck.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Protections\\MutexCheck.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\MutexCheck.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Protections\\MutexCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:54.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckAll.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\CheckAll.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Protections\\CheckAll.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\CheckAll.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Protections\\CheckAll.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:51.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AntiVM.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\AntiVM.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Protections\\AntiVM.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\AntiVM.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Protections\\AntiVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:45.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AntiDebugger.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\AntiDebugger.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Protections\\AntiDebugger.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Protections\\AntiDebugger.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Protections\\AntiDebugger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebSocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\WebSocketClient.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\WebSocketClient.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\WebSocketClient.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\WebSocketClient.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:28.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RuntimeResolver.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\RuntimeResolver.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\RuntimeResolver.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\RuntimeResolver.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\RuntimeResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:25.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandomUserAgent.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\RandomUserAgent.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\RandomUserAgent.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\RandomUserAgent.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\RandomUserAgent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NullableValue.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\NullableValue.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\NullableValue.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\NullableValue.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\NullableValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:14.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LockHelper.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\LockHelper.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\LockHelper.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\LockHelper.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\LockHelper.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAAAFkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:10.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JsonParser.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\JsonParser.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\JsonParser.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\JsonParser.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\JsonParser.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:20:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonDeserializer.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\JsonDeserializer.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\JsonDeserializer.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\JsonDeserializer.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\JsonDeserializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:57.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interop.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\Interop.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\Interop.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\Interop.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\Interop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:56.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImportHider.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\ImportHider.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\ImportHider.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\ImportHider.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\ImportHider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:50.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChromeDevToolsWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\ChromeDevToolsWrapper.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\ChromeDevToolsWrapper.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\ChromeDevToolsWrapper.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\ChromeDevToolsWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:49.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\FileManager.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\FileManager.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\FileManager.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrowserHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\BrowserHelpers.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Extensions\\BrowserHelpers.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Extensions\\BrowserHelpers.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Extensions\\BrowserHelpers.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAYwKQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:42.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TripleDes.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\TripleDes.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\TripleDes.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\TripleDes.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\TripleDes.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAkwLAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:36.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Helpers.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\Helpers.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Helpers.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:32.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DpApi.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\DpApi.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\DpApi.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\DpApi.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\DpApi.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:27.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Asn1Der.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Asn1Der.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\Asn1Der.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Asn1Der.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\Asn1Der.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:21.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AesGcm.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\AesGcm.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\AesGcm.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\AesGcm.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\AesGcm.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwJsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PBKDF2.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Hashing\\PBKDF2.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\Hashing\\PBKDF2.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Hashing\\PBKDF2.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\Hashing\\PBKDF2.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:11.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PBE.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Hashing\\PBE.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Cryptography\\Hashing\\PBE.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Cryptography\\Hashing\\PBE.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Cryptography\\Hashing\\PBE.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:06.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PriorityLevel.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\PriorityLevel.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Classes\\PriorityLevel.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\PriorityLevel.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Classes\\PriorityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:03.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogRecord.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\LogRecord.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Classes\\LogRecord.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\LogRecord.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Classes\\LogRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cookie.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\Cookie.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Classes\\Cookie.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\Cookie.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Classes\\Cookie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:00.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BerkeleyDB.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\BerkeleyDB.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Classes\\BerkeleyDB.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\BerkeleyDB.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Classes\\BerkeleyDB.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:18:55.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BCrypt.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\BCrypt.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Classes\\BCrypt.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\BCrypt.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Classes\\BCrypt.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:18:49.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Asn1DerObject.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\Asn1DerObject.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Classes\\Asn1DerObject.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Classes\\Asn1DerObject.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Classes\\Asn1DerObject.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:18:42.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Discord.cs",
+              "DocumentMoniker": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Services\\Messengers\\Discord.cs",
+              "RelativeDocumentMoniker": "Phemedrone-Stealer\\Services\\Messengers\\Discord.cs",
+              "ToolTip": "C:\\Users\\seven\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Phemedrone-Stealer\\Services\\Messengers\\Discord.cs",
+              "RelativeToolTip": "Phemedrone-Stealer\\Services\\Messengers\\Discord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:17:46.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

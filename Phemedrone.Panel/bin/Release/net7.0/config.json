@@ -1,0 +1,9 @@
+{
+  "Panel": {
+    "IpAddress": "127.0.0.1",
+    "Port": 1337,
+    "SendToTelegram": true,
+    "BotToken": "ENTER YOUR BOT TOKEN",
+    "ChatID": "ENTER YOUR CHATID" 
+  }
+}
